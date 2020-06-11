@@ -1,2 +1,2 @@
-# assessment
+# Library
 React Component Library
